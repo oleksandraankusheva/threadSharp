@@ -1,0 +1,14 @@
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\bin\Debug\net8.0\ThreadDemo_Sharp.exe
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\bin\Debug\net8.0\ThreadDemo_Sharp.deps.json
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\bin\Debug\net8.0\ThreadDemo_Sharp.runtimeconfig.json
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\bin\Debug\net8.0\ThreadDemo_Sharp.dll
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\bin\Debug\net8.0\ThreadDemo_Sharp.pdb
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\obj\Debug\net8.0\ThreadDemo_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\obj\Debug\net8.0\ThreadDemo_Sharp.AssemblyInfoInputs.cache
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\obj\Debug\net8.0\ThreadDemo_Sharp.AssemblyInfo.cs
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\obj\Debug\net8.0\ThreadDemo_Sharp.csproj.CoreCompileInputs.cache
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\obj\Debug\net8.0\ThreadDemo_Sharp.dll
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\obj\Debug\net8.0\refint\ThreadDemo_Sharp.dll
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\obj\Debug\net8.0\ThreadDemo_Sharp.pdb
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\obj\Debug\net8.0\ThreadDemo_Sharp.genruntimeconfig.cache
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\1\ThreadDemo_Sharp\ThreadDemo_Sharp\obj\Debug\net8.0\ref\ThreadDemo_Sharp.dll
